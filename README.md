@@ -40,7 +40,7 @@ week-01/
 ### Week 01
 
 - [x] Day 01 — Big-O and Complexity
-- [ ] Day 02 — Arrays
+- [x] Day 02 — Arrays
 - [ ] Day 03 — Strings
 - [ ] Day 04 — Hashing
 - [ ] Day 05 — Two Pointers and Sliding Window
