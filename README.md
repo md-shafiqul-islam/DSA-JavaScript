@@ -43,7 +43,7 @@ week-01/
 - [x] Day 02 — Arrays
 - [x] Day 03 — Strings
 - [x] Day 04 — Hashing
-- [ ] Day 05 — Two Pointers and Sliding Window
+- [x] Day 05 — Two Pointers and Sliding Window
 - [ ] Day 06 — Searching
 - [ ] Day 07 — Review and Mixed Problems
 
